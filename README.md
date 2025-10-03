@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m John Kenneth Gerero (johnkenneth24)
 
-I’m a budding web & software developer, student, and someone passionate about creating useful, interactive applications. I enjoy building small projects, experimenting with JavaScript, PHP, chat apps, and more.
+I’m a budding web developer and someone passionate about creating useful, interactive applications. I enjoy building small projects, experimenting with JavaScript, PHP, chat apps, and more.
 
 - 🔭 I’m working on — improving my web app skills, learning backend frameworks, and building full-stack projects  
 - 🌱 I’m currently learning — deeper JS, more PHP & frameworks, better UI/UX  
