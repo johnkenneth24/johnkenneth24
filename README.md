@@ -39,11 +39,7 @@ I’m a budding web & software developer, student, and someone passionate about 
 ---
 
 
-## 📈 GitHub Stats & Activity
+## 🏙️ 3D Contribution Graph
 
-Here’s a 3D-styled card effect you can include to make your stats pop (insert this if your README processor allows HTML):
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div style="display:inline-block; transform: perspective(900px) rotateX(8deg) rotateY(-8deg);">
-  <img alt="GitHub stats" 
-       src="https://github-readme-stats.vercel.app/api?username=johnkenneth24&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-</div>
