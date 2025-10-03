@@ -36,9 +36,4 @@ I’m a budding web & software developer, student, and someone passionate about 
 
 
 
----
-
-## 🏙️ 3D Contribution Graph
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
