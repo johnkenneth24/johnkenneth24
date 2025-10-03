@@ -38,22 +38,6 @@ I’m a budding web & software developer, student, and someone passionate about 
 
 ---
 
-## 🚀 Selected Projects & Experiments
-
-Here are some repos I’ve worked on and what they do / what I practiced in them:
-
-| Project | Description / What I Learned |
-|---|-------------------------------|
-| **bmhms-capstone-project** | My capstone / bigger project in which I applied JS and other logic. |
-| **kenGerero_firstRepo.** | My first repo — I used it to learn version control and repository structure. |
-| **ITST4_Activity_Note_Apps** | A notes / activity logging web app to practice JS & UI logic. |
-| **ITST4_WeatherApp** | A weather-fetching app using APIs — practice frontend + AJAX / fetch. |
-| **chat_app** | A chat interface / app experiment — real-time UI and message handling. |
-| **login_ias** | A login / auth interface in PHP, practicing server-side logic. |
-
-Feel free to click around those repos to see code, live demos (if any), and try things yourself.
-
----
 
 ## 📈 GitHub Stats & Activity
 
